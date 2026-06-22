@@ -1,6 +1,6 @@
 ## Projek-aljabar-linier
 
-'''text
+```text
 file:
 Projekaljabar/
 |
@@ -93,4 +93,4 @@ Projekaljabar/
 |--Implementasi_Deteksi_Kemiripan_Wajah.py #kompresifoto gray dan deteksi
 |
 |--kompresi.py #kompresi foto da grafik
-'''
+```
