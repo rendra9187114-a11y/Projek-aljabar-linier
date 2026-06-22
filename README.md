@@ -1,7 +1,7 @@
 ## Projek-aljabar-linier
 
 ```text
-file:
+Struktur file awal:
 Projekaljabar/
 |
 |--dataset/
@@ -22,7 +22,7 @@ Projekaljabar/
 |--kompresi.py #kompresi foto da grafik
 
 
-file saat run Implementasi_Deteksi_Kemiripan_Wajah.py:
+Struktur file saat Implementasi_Deteksi_Kemiripan_Wajah.py di run:
 Projekaljabar/
 |
 |--dataset/
@@ -47,7 +47,7 @@ Projekaljabar/
 |--kompresi.py #kompresi foto da grafik
 
 
-file saat run Implementasi_Deteksi_Kemiripan_Wajah.py:
+Struktur file saat run Implementasi_Deteksi_Kemiripan_Wajah.py di run:
 Projekaljabar/
 |
 |--dataset/
